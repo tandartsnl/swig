@@ -19,7 +19,7 @@
     "Dusko Jordanovski <jordanovskid@gmail.com>"
   ],
   "dependencies": {
-    "underscore": ">=1.1.7"
+    "underscore": "1.1.7"
   },
   "devDependencies": {
     "express": "~3",
